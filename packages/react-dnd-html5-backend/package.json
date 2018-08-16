@@ -1,6 +1,6 @@
 {
 	"name": "@mozillareality/react-dnd-html5-backend",
-	"version": "5.1.6",
+	"version": "5.1.7",
 	"description": "HTML5 backend for React DnD",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
@@ -37,5 +37,5 @@
 		"typescript": "^2.9.1",
 		"webpack": "^4.6.0"
 	},
-	"gitHead": "b0ba42a6cb4876fa6bf00a5515a2c4c6a0b82723"
+	"gitHead": "bd4c31670ce7da1a4404d15220d4791355b77306"
 }
