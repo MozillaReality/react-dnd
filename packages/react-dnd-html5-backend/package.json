@@ -9,6 +9,9 @@
 		"type": "git",
 		"url": "https://github.com/react-dnd/react-dnd.git"
 	},
+	"publishConfig": {
+    "access": "public"
+  },
 	"scripts": {
 		"clean": "rimraf lib dist",
 		"transpile": "tsc",

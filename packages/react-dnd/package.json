@@ -9,6 +9,9 @@
 		"url": "https://github.com/react-dnd/react-dnd.git"
 	},
 	"license": "BSD-3-Clause",
+	"publishConfig": {
+    "access": "public"
+  },
 	"scripts": {
 		"clean": "rimraf lib dist",
 		"bundle:unmin": "webpack --mode development --output-filename=ReactDnD.js",

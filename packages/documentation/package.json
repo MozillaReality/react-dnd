@@ -11,6 +11,9 @@
 		"build:index_page": "ts-node ./scripts/buildSiteIndexPages.ts",
 		"build_site": "./scripts/buildStaticSite.sh"
 	},
+	"publishConfig": {
+    "access": "public"
+  },
 	"devDependencies": {
 		"autoprefixer": "^7.1.2",
 		"babel-loader": "^7.1.4",
