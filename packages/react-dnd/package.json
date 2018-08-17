@@ -1,5 +1,5 @@
 {
-	"name": "react-dnd",
+	"name": "@mozillareality/react-dnd",
 	"version": "5.0.0",
 	"description": "Drag and Drop for React",
 	"main": "lib/index.js",

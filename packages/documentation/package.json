@@ -1,5 +1,5 @@
 {
-	"name": "react-dnd-documentation",
+	"name": "@mozillareality/react-dnd-documentation",
 	"version": "5.1.9",
 	"private": true,
 	"scripts": {

@@ -1,5 +1,5 @@
 {
-	"name": "dnd-core",
+	"name": "@mozillareality/dnd-core",
 	"version": "4.0.5",
 	"description": "Drag and drop sans the GUI",
 	"license": "BSD-3-Clause",
