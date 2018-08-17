@@ -1,6 +1,6 @@
 {
 	"name": "@mozillareality/react-dnd-documentation",
-	"version": "5.1.9",
+	"version": "5.1.10",
 	"private": true,
 	"scripts": {
 		"clean": "rimraf __site__ __site_prerender__",
