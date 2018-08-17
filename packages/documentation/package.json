@@ -1,6 +1,6 @@
 {
 	"name": "@mozillareality/react-dnd-documentation",
-	"version": "5.1.10",
+	"version": "5.1.11",
 	"private": true,
 	"scripts": {
 		"clean": "rimraf __site__ __site_prerender__",
@@ -12,8 +12,8 @@
 		"build_site": "./scripts/buildStaticSite.sh"
 	},
 	"publishConfig": {
-    "access": "public"
-  },
+		"access": "public"
+	},
 	"devDependencies": {
 		"autoprefixer": "^7.1.2",
 		"babel-loader": "^7.1.4",

@@ -1,6 +1,6 @@
 {
 	"name": "@mozillareality/react-dnd-test-backend",
-	"version": "5.1.10",
+	"version": "5.1.11",
 	"description": "A mock backend for testing React DnD apps",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",

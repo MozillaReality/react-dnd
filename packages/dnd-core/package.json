@@ -1,6 +1,6 @@
 {
 	"name": "@mozillareality/dnd-core",
-	"version": "5.1.10",
+	"version": "5.1.11",
 	"description": "Drag and drop sans the GUI",
 	"license": "BSD-3-Clause",
 	"main": "./lib/index.js",
@@ -13,8 +13,8 @@
 		"test": "run-s clean build"
 	},
 	"publishConfig": {
-    "access": "public"
-  },
+		"access": "public"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/react-dnd/react-dnd.git"

@@ -1,6 +1,6 @@
 {
 	"name": "@mozillareality/react-dnd",
-	"version": "5.1.10",
+	"version": "5.1.11",
 	"description": "Drag and Drop for React",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
@@ -10,8 +10,8 @@
 	},
 	"license": "BSD-3-Clause",
 	"publishConfig": {
-    "access": "public"
-  },
+		"access": "public"
+	},
 	"scripts": {
 		"clean": "rimraf lib dist",
 		"bundle:unmin": "webpack --mode development --output-filename=ReactDnD.js",
